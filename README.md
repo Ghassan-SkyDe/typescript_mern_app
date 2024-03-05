@@ -62,25 +62,6 @@ Take a look at the live project deployed on Netlify
 
 ## Preview
 
-** ------------------------------------- DESKTOP  -------------------------------------**
-
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/ed9e0b88-5124-4cfc-914c-200ee68bf0cd" width="80%">
-
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/471863a0-9feb-44b8-abbe-1cf387d9ce32" width="80%">
-
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/e2221c66-2fb7-44b7-9c75-f74c30967da4" width="80%">
-
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/aab69d01-1899-485f-bb2b-e3d1ed5b07c5" width="80%">
-
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/ac46e953-e4c4-4ee1-b6f3-e1038f58b839" width="80%">
-
-
-** -------------------------------------- Mobile ------------------------------------**
-
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/227396df-22e5-454c-983e-067e5bb365bd" width="270">
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/3968a582-1391-402b-bfd6-e2fd3da4aec2" width="270">
-<img src="https://github.com/Sky-De/typescript_mern_app/assets/79264045/9208088a-ea28-4ef1-ba2c-cb875247f7fa" width="270">
-
 ![line]
 
 ## About
@@ -141,7 +122,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/typescript_mern_app
+git clone https://github.com/Ghassan-SkyDe/typescript_mern_app
 
 # Change directory
 cd client
@@ -161,10 +142,6 @@ npm run start
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)

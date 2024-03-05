@@ -3,7 +3,7 @@ import IntroCover from "../../assets/svg/BookLover.svg";
 import { useAppDispatch } from "../../hooks/reduxHooks";
 import { openModel } from "../../redux/features/model/modelSlice";
 
-const REPOSITORY_URL = "https://github.com/Sky-De/typescript_mern_app";
+const REPOSITORY_URL = "https://github.com/Ghassan-SkyDe/typescript_mern_app";
 
 const HomeIntro = () => {
   const dispatch = useAppDispatch();
